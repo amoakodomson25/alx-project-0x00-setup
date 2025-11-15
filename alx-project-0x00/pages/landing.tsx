@@ -9,6 +9,11 @@ const Landing: React.FC =  () => {
         <Button
         title="Next"
         size="lg"
+        styles="rounded-sm"
+        />
+        <Button
+        title="Next"
+        size="lg"
         styles="rounded-full"
         />
         <Button
