@@ -7,7 +7,7 @@ const Home: React.FC = () => {
         <Button
         title="Get Started"
         size="lg"
-        shape="rounded-full"
+        styles="rounded-full"
         />
       </main>
     )
